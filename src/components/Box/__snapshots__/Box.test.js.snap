@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Box should render properly 1`] = `"<div class=\\"sc-bdVaJa kQfuFR\\"><h4>message</h4><div class=\\"sc-bwzfXH gbwKQg\\"></div></div>"`;

@@ -1,0 +1,36 @@
+{
+    "type":"Box",
+    "content":"Hello",
+    "css": {
+      "border-color":"#6d8fbd",
+      "background":"#dae8fb"
+    },
+    "children":[
+       {
+          "id":"1",
+          "type":"Text",
+          "content":"foo"
+       },
+       {
+          "id":"2",
+          "type":"Text",
+          "content":"bar"
+       },
+       {
+          "id":"3",
+          "type":"Box",
+          "content":"Bowtie",
+          "css": {
+            "border-color": "#6d8fbd",
+            "background":"#FF5733"
+          },
+          "children":[
+             {
+                "id":"1",
+                "type":"Text",
+                "content":"insurance"
+             }
+          ]
+       }
+    ]
+}
