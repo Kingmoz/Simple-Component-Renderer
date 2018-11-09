@@ -33,6 +33,3 @@ npm start
 ## Further improvement
 - Support css override for complicated component
   -  e.g. Nested css object in JSON: `css: { main: {...}, header: {...} }`
-- Refine component loading part
-  - Load all required components before render
-  - Store loaded components into a map
